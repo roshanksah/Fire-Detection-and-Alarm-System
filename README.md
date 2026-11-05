@@ -277,6 +277,8 @@ The project demonstrates a working prototype combining computer vision-based fir
 | Alarm output | MP3 audio |
 | Notification | SMTP email |
 
+![Fire-Alarm](https://github.com/user-attachments/assets/febc434b-43fd-490e-9ffd-705c760d5343)
+
 ### 💡 Overall Outcome
 
 The project demonstrates how computer vision and image-processing techniques can be integrated with automated alert mechanisms to create a basic fire-monitoring prototype.
